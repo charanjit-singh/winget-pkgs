@@ -1,0 +1,23 @@
+manifests/s/SmoothCut/SmoothCut/1.22.0/SmoothCut.SmoothCut.installer.yaml
+  s_bae48645ccc8ba::t_568f4df6e8f64c 1-19
+manifests/s/SmoothCut/SmoothCut/1.22.0/SmoothCut.SmoothCut.locale.en-US.yaml
+  s_bae48645ccc8ba::t_aa8c74af9c84be 1-25
+manifests/s/SmoothCut/SmoothCut/1.22.0/SmoothCut.SmoothCut.yaml
+  s_bae48645ccc8ba::t_bb09cd1fc5252f 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "91cd79ee29915ebf21db1e9d6f10501288531be8",
+  "prompts": {},
+  "sessions": {
+    "s_bae48645ccc8ba": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "553efd90-7ce1-4f25-bb0d-6703d28d322b",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Charanjit Singh <charanjitdotsingh@gmail.com>"
+    }
+  }
+}
